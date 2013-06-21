@@ -22,6 +22,8 @@ Thanks!
 
 Version History
 ---------------
+0.3. Testin' stuff.
+
 0.2, Bug fixes, 9 October 2007
 
  - All tools now work in ArcMap EXCEPT:
